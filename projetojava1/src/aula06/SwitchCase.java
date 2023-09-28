@@ -1,4 +1,4 @@
-package aula6;
+package aula06;
 
 public class SwitchCase {
 
