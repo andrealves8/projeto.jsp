@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;
 
-public class Listas {
+public class Collections_All {
 
 	public static void main(String[] args) {
 
